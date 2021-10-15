@@ -9,6 +9,7 @@ This is an app to show you "Your Mama" jokes work with JSON data locally. Data s
 ## Features
 - Swipeable Card Stack view
 - Like to save favourite Joke
+- Simple SplashScreen test
 - Share Button
 - Swipe to favourite Joke
 
