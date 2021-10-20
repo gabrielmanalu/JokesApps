@@ -1,5 +1,5 @@
 ## JokesApp
-This is an app to show you "Your Mama" jokes work with JSON data locally. Data saved using SharedPreferences.
+MVC Architecture test. This is an app to show you "Your Mama" jokes work with JSON data locally. Data saved using SharedPreferences.
 
 
 ## Demo
